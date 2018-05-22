@@ -21,7 +21,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System
 - [Repository](http://www.unlambda.com/) - Repository for various lisp machine related projects.
 - [Resurrecting](https://lm-3.github.io/) - Resurrecting the MIT CADR.
 
-## Operating System
+## Lisp Operating System
 
 - [Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp.
 - [PilOS](https://picolisp.com/wiki/?PilOS) - PilOS that runs picolisp.
