@@ -23,7 +23,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System
 - [PWGL](http://www2.siba.fi/PWGL/) - A Visual Programming Language for Music and Sound.
 
 
-### Operating System
+## Operating System
 
 - [Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp.
 - [PilOS](https://picolisp.com/wiki/?PilOS) - PilOS that runs picolisp.
