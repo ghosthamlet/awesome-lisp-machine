@@ -1,5 +1,5 @@
 # Awesome Lisp Machine
-A curated list of awesome Lisp Machine and Lisp Operating System
+A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -17,6 +17,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System
 
 ## Lisp Machine
 
+- [History](https://danluu.com/symbolics-lisp-machines/) - History of Symbolics Lisp Machines.
 - [Museum](https://www.ifis.uni-luebeck.de/~moeller/symbolics-info/index.html) - Symbolics Lisp Machine Museum.
 - [Repository](http://www.unlambda.com/) - Repository for various lisp machine related projects.
 - [Resurrecting](https://lm-3.github.io/) - Resurrecting the MIT CADR.
