@@ -20,8 +20,6 @@ A curated list of awesome Lisp Machine and Lisp Operating System
 - [Museum](https://www.ifis.uni-luebeck.de/~moeller/symbolics-info/index.html) - Symbolics Lisp Machine Museum.
 - [Repository](http://www.unlambda.com/) - Repository for various lisp machine related projects.
 - [Resurrecting](https://lm-3.github.io/) - Resurrecting the MIT CADR.
-- [PWGL](http://www2.siba.fi/PWGL/) - A Visual Programming Language for Music and Sound.
-
 
 ## Operating System
 
