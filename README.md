@@ -19,11 +19,16 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 
 - [History](https://danluu.com/symbolics-lisp-machines/) - History of Symbolics Lisp Machines.
 - [Museum](https://www.ifis.uni-luebeck.de/~moeller/symbolics-info/index.html) - Symbolics Lisp Machine Museum.
+- [Museum](http://smbx.org/) - Symbolics Lisp Machine Museum.
 - [Repository](http://www.unlambda.com/) - Repository for various lisp machine related projects.
 - [Resurrecting](https://lm-3.github.io/) - Resurrecting the MIT CADR.
 - [PilMCU](http://www.mail-archive.com/picolisp@software-lab.de/msg04823.html) - The Lisp Machine on a Chip.
 - [Manual](https://hanshuebner.github.io/lmman/title.xml) - Lisp Machine Manual (1984).
 - [Architecture](http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf) - Architecture of LISP Machines.
+- [Story](http://kremlin.enterprises/post/129364443055/your-code-is-so-bad-we-had-to-make-etclocal) - A Story about Symbolics Lisp Machines.
+- [Links](http://www.lispmachine.net/) - Lisp/Lisp Machine Links.
+- [DIY](https://www.jwz.org/blog/2016/11/dick-tracy-wrist-mounted-lisp-machine/) - Dick Tracy Wrist-Mounted Lisp Machine.
+- [What is a Lisp machine](https://www.quora.com/What-is-a-lisp-machine-and-what-is-so-great-about-them) - What is a Lisp machine and what is so great about them?
 
 ## Lisp Operating System
 
@@ -39,6 +44,6 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 - [Lispix](https://github.com/saniv/lispix) - A Lisp interpreter and operating system.
 - [LOS-64](https://github.com/afonsotrepa/LOS-64) - Small LISP-1 OS for x86-64 written in C, asm and Common Lisp.
 - [Lambda Lisp operating system](https://github.com/dseagrav/Lambda-system-software) - This repository is for tracking issues in and changes to the LMI Lambda operating system software.
-- [Lisp-based OSes](http://linuxfinances.info/info/lisposes.html) - Lisp-based OSes.
+- [Links](http://linuxfinances.info/info/lisposes.html) - Lisp-based OSes.
 
 
