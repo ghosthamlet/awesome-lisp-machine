@@ -29,6 +29,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 - [Links](http://www.lispmachine.net/) - Lisp/Lisp Machine Links.
 - [DIY](https://www.jwz.org/blog/2016/11/dick-tracy-wrist-mounted-lisp-machine/) - Dick Tracy Wrist-Mounted Lisp Machine.
 - [What is a Lisp machine](https://www.quora.com/What-is-a-lisp-machine-and-what-is-so-great-about-them) - What is a Lisp machine and what is so great about them?
+- [Scheme Machine](http://burgerrg.github.io/TR413.pdf) - The Scheme Machine.
 
 ## Lisp Operating System
 
