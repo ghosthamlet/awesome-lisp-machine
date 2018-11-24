@@ -27,6 +27,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 - [Architecture](http://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf) - Architecture of LISP Machines.
 - [Story](http://kremlin.enterprises/post/129364443055/your-code-is-so-bad-we-had-to-make-etclocal) - A Story about Symbolics Lisp Machines.
 - [Links](http://www.lispmachine.net/) - Lisp/Lisp Machine Links.
+- [Links](http://fare.tunes.org/LispM.html) - About LISP Machines.
 - [DIY](https://www.jwz.org/blog/2016/11/dick-tracy-wrist-mounted-lisp-machine/) - Dick Tracy Wrist-Mounted Lisp Machine.
 - [What is a Lisp machine](https://www.quora.com/What-is-a-lisp-machine-and-what-is-so-great-about-them) - What is a Lisp machine and what is so great about them?
 - [Scheme Machine](http://burgerrg.github.io/TR413.pdf) - The Scheme Machine.
