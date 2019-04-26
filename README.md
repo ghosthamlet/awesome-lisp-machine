@@ -37,6 +37,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 ## Lisp Operating System
 
 - [About LispOS](http://metamodular.com/Common-Lisp/lispos.html) - what a LispOS.
+- [Specification of LispOS](http://metamodular.com/lispos.pdf) - Specification of a Lisp operating system.
 - [Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp.
 - [PilOS](https://picolisp.com/wiki/?PilOS) - PilOS that runs picolisp.
 - [Yalo](https://github.com/whily/yalo) - Lisp OS running on bare metal x86-64 hardware.
