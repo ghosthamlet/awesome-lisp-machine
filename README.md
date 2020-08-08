@@ -32,7 +32,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 - [What is a Lisp machine](https://www.quora.com/What-is-a-lisp-machine-and-what-is-so-great-about-them) - What is a Lisp machine and what is so great about them?
 - [Scheme Machine](http://burgerrg.github.io/TR413.pdf) - The Scheme Machine.
 - [K-machine](http://fare.tunes.org/tmp/emergent/kmachine.htm) - Lisp Machine Inc. K-machine.
-- [History](http://www.andromeda.com/people/ddyer/lisp/) - A Brief History of Lisp Machines.
+- [History](http://www.andromeda.com/people/ddyer/lisp/, https://hndex.org/15355979) - A Brief History of Lisp Machines.
 
 
 ## Lisp Operating System
