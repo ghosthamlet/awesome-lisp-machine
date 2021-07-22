@@ -51,6 +51,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 - [Lispix](https://github.com/saniv/lispix) - A Lisp interpreter and operating system.
 - [LOS-64](https://github.com/afonsotrepa/LOS-64) - Small LISP-1 OS for x86-64 written in C, asm and Common Lisp.
 - [Lambda Lisp operating system](https://github.com/dseagrav/Lambda-system-software) - This repository is for tracking issues in and changes to the LMI Lambda operating system software.
+- [DreamOS](https://github.com/AviaNick/DreamOS) - Small x86 OS written by David Joseph Stith in Scheme.
 - [Links](http://linuxfinances.info/info/lisposes.html) - Lisp-based OSes.
 
 
