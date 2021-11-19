@@ -18,6 +18,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 ## Lisp Machine
 
 - [History](https://danluu.com/symbolics-lisp-machines/) - History of Symbolics Lisp Machines.
+- [History](http://www.andromeda.com/people/ddyer/lisp/, https://hndex.org/15355979) - A Brief History of Lisp Machines.
 - [Museum](https://www.ifis.uni-luebeck.de/~moeller/symbolics-info/index.html) - Symbolics Lisp Machine Museum.
 - [Museum](http://smbx.org/) - Symbolics Lisp Machine Museum.
 - [Repository](http://www.unlambda.com/) - Repository for various lisp machine related projects.
@@ -32,8 +33,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 - [What is a Lisp machine](https://www.quora.com/What-is-a-lisp-machine-and-what-is-so-great-about-them) - What is a Lisp machine and what is so great about them?
 - [Scheme Machine](http://burgerrg.github.io/TR413.pdf) - The Scheme Machine.
 - [K-machine](http://fare.tunes.org/tmp/emergent/kmachine.htm) - Lisp Machine Inc. K-machine.
-- [History](http://www.andromeda.com/people/ddyer/lisp/, https://hndex.org/15355979) - A Brief History of Lisp Machines.
-- [Symbolics](http://fare.tunes.org/tmp/emergent/kmachine.htm) - Ergonomics of the Symbolics Lisp Machine - Reflections on the Developer Productivity.
+- [Symbolics](http://lispm.de/symbolics-lisp-machine-ergonomics) - Ergonomics of the Symbolics Lisp Machine - Reflections on the Developer Productivity.
 
 
 ## Lisp Operating System
