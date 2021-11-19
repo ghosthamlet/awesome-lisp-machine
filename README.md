@@ -33,6 +33,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 - [Scheme Machine](http://burgerrg.github.io/TR413.pdf) - The Scheme Machine.
 - [K-machine](http://fare.tunes.org/tmp/emergent/kmachine.htm) - Lisp Machine Inc. K-machine.
 - [History](http://www.andromeda.com/people/ddyer/lisp/, https://hndex.org/15355979) - A Brief History of Lisp Machines.
+- [Symbolics](http://fare.tunes.org/tmp/emergent/kmachine.htm) - Ergonomics of the Symbolics Lisp Machine - Reflections on the Developer Productivity.
 
 
 ## Lisp Operating System
