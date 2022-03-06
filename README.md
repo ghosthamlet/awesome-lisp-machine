@@ -34,6 +34,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 - [Scheme Machine](http://burgerrg.github.io/TR413.pdf) - The Scheme Machine.
 - [K-machine](http://fare.tunes.org/tmp/emergent/kmachine.htm) - Lisp Machine Inc. K-machine.
 - [Symbolics](http://lispm.de/symbolics-lisp-machine-ergonomics) - Ergonomics of the Symbolics Lisp Machine - Reflections on the Developer Productivity.
+- [Ideas](https://luksamuk.codes/posts/lispm-001.html) - Early Ideas: A Modern Lisp Machine from Scratch.
 
 
 ## Lisp Operating System
@@ -54,5 +55,6 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 - [Lambda Lisp operating system](https://github.com/dseagrav/Lambda-system-software) - This repository is for tracking issues in and changes to the LMI Lambda operating system software.
 - [DreamOS](https://github.com/AviaNick/DreamOS) - Small x86 OS written by David Joseph Stith in Scheme.
 - [Links](http://linuxfinances.info/info/lisposes.html) - Lisp-based OSes.
+- [flip](https://github.com/nakst/flip) - A 16-bit Lisp based operating system. 
 
 
