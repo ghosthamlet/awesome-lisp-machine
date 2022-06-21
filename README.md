@@ -36,6 +36,7 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 - [Symbolics](http://lispm.de/symbolics-lisp-machine-ergonomics) - Ergonomics of the Symbolics Lisp Machine - Reflections on the Developer Productivity.
 - [Ideas](https://luksamuk.codes/posts/lispm-001.html) - Early Ideas: A Modern Lisp Machine from Scratch.
 - [Archive](https://github.com/jrm-code-project/LISP-Machine) - Archive of LISP Machine, Inc.
+- [Architecture](http://www.bitsavers.org/pdf/symbolics/Sunstone_Architecture_198711.pdf) - Sunstone Architecture.
 
 
 ## Lisp Operating System
