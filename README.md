@@ -18,7 +18,6 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 ## Lisp Machine
 
 - [History](https://danluu.com/symbolics-lisp-machines/) - History of Symbolics Lisp Machines.
-- [History](http://www.andromeda.com/people/ddyer/lisp/, https://hndex.org/15355979) - A Brief History of Lisp Machines.
 - [Museum](https://www.ifis.uni-luebeck.de/~moeller/symbolics-info/index.html) - Symbolics Lisp Machine Museum.
 - [Museum](http://smbx.org/) - Symbolics Lisp Machine Museum.
 - [Repository](http://www.unlambda.com/) - Repository for various lisp machine related projects.
@@ -57,6 +56,6 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 - [Lambda Lisp operating system](https://github.com/dseagrav/Lambda-system-software) - This repository is for tracking issues in and changes to the LMI Lambda operating system software.
 - [DreamOS](https://github.com/AviaNick/DreamOS) - Small x86 OS written by David Joseph Stith in Scheme.
 - [Links](http://linuxfinances.info/info/lisposes.html) - Lisp-based OSes.
-- [flip](https://github.com/nakst/flip) - A 16-bit Lisp based operating system. 
+- [flip](https://github.com/nakst/flip) - A 16-bit Lisp based operating system.
 
 
