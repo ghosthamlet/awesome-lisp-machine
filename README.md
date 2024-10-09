@@ -18,7 +18,6 @@ A curated list of awesome Lisp Machine and Lisp Operating System stuff.
 ## Lisp Machine
 
 - [History](https://danluu.com/symbolics-lisp-machines/) - History of Symbolics Lisp Machines.
-- [History](http://www.andromeda.com/people/ddyer/lisp/, https://hndex.org/15355979) - A Brief History of Lisp Machines.
 - [Museum](https://www.ifis.uni-luebeck.de/~moeller/symbolics-info/index.html) - Symbolics Lisp Machine Museum.
 - [Museum](http://smbx.org/) - Symbolics Lisp Machine Museum.
 - [Repository](http://www.unlambda.com/) - Repository for various lisp machine related projects.
